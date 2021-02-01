@@ -1,0 +1,59 @@
+﻿  stdafx.cpp
+  Animation.cpp
+C:\Users\user\Desktop\고니\과제 8 - 닷지게임\Space\Animation.cpp(66,21): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\user\Desktop\고니\과제 8 - 닷지게임\Space\Animation.cpp(79,66): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\고니\과제 8 - 닷지게임\Space\Animation.cpp(79,27): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\고니\과제 8 - 닷지게임\Space\Animation.cpp(78,97): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\고니\과제 8 - 닷지게임\Space\Animation.cpp(78,58): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\고니\과제 8 - 닷지게임\Space\Animation.cpp(86,46): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\고니\과제 8 - 닷지게임\Space\Animation.cpp(86,17): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\고니\과제 8 - 닷지게임\Space\Animation.cpp(85,67): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\고니\과제 8 - 닷지게임\Space\Animation.cpp(85,38): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  App.cpp
+  Boomerang.cpp
+  Boss.cpp
+C:\Users\user\Desktop\고니\과제 8 - 닷지게임\Space\Boss.cpp(102,9): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  BossBullet.cpp
+  Camera.cpp
+  CollisionMgr.cpp
+  DeathScene.cpp
+  Input.cpp
+  MagicSpell.cpp
+  Monster.cpp
+C:\Users\user\Desktop\고니\과제 8 - 닷지게임\Space\Monster.cpp(64,21): warning C4805: '==': 연산에 'int' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+C:\Users\user\Desktop\고니\과제 8 - 닷지게임\Space\Monster.cpp(80,16): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\고니\과제 8 - 닷지게임\Space\Monster.cpp(126,15): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  MonsterBullet.cpp
+C:\Users\user\Desktop\고니\과제 8 - 닷지게임\Space\MonsterBullet.cpp(12,15): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\고니\과제 8 - 닷지게임\Space\MonsterBullet.cpp(15,15): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Object.cpp
+  ObjectMgr.cpp
+C:\Users\user\Desktop\고니\과제 8 - 닷지게임\Space\ObjectMgr.cpp(69,23): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\고니\과제 8 - 닷지게임\Space\ObjectMgr.cpp(68,23): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\고니\과제 8 - 닷지게임\Space\ObjectMgr.cpp(67,23): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\고니\과제 8 - 닷지게임\Space\ObjectMgr.cpp(66,23): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Player.cpp
+  PlayerBullet.cpp
+  Renderer.cpp
+  ResourceMgr.cpp
+  SceneDirector.cpp
+  SceneMain.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  SoundMgr.cpp
+  Space.cpp
+  Sprite.cpp
+C:\Users\user\Desktop\고니\과제 8 - 닷지게임\Space\Sprite.cpp(56,66): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\고니\과제 8 - 닷지게임\Space\Sprite.cpp(56,27): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\고니\과제 8 - 닷지게임\Space\Sprite.cpp(55,97): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\고니\과제 8 - 닷지게임\Space\Sprite.cpp(55,58): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\고니\과제 8 - 닷지게임\Space\Sprite.cpp(63,46): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\고니\과제 8 - 닷지게임\Space\Sprite.cpp(63,17): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\고니\과제 8 - 닷지게임\Space\Sprite.cpp(62,67): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\고니\과제 8 - 닷지게임\Space\Sprite.cpp(62,38): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\고니\과제 8 - 닷지게임\Space\Sprite.cpp(75): error C2102: '&'에 l-value가 있어야 합니다.
+C:\Users\user\Desktop\고니\과제 8 - 닷지게임\Space\Sprite.cpp(76): error C2102: '&'에 l-value가 있어야 합니다.
+  StageOne.cpp
+  TextFont.cpp
+  Texture.cpp
+  코드를 생성하고 있습니다...
